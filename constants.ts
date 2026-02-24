@@ -7,24 +7,24 @@ export const DISCORD_LINK = "https://discord.gg/r8ffvkPr"; // Your Discord link
 // --- CONFIGURATION ---
 // Edit this value to set a static key for everyone. 
 // If you leave it empty (""), a random key for each user.
-export const FREE_TRIAL_KEY = "F1LTHY-FREE"; 
+export const FREE_TRIAL_KEY = "AIMXIT-1"; 
 
 export const PRODUCTS: Product[] = [
   {
     id: 'main_panel',
-    name: 'F1LTHY INTERNAL PANEL',
+    name: 'AIMXIT INTERNAL MAX',
     category: 'Panel',
-    status: StatusState.UNDETECTED,
+    status: StatusState.SAFE,
     lastUpdated: '1 hour ago',
     version: 'v2.4.0',
-    downloadUrl: 'https://www.dropbox.com/scl/fi/vy2tk3tluji8sevy4mb5y/REAL-XITER.rar?dl=1',
-    requirementUrl: 'https://mega.nz/file/7d9TXaxb#Bon-yyPkSpi7ZyXfstgkW3CfL287jlRCdPYm2M-w5DQ',
-    recommendedEmulatorUrl: 'https://www.bluestacks.com/download.html', 
+    downloadUrl: 'https://www.mediafire.com/file/2t3o0it2w9w370q/AIMXIT_INTERNAL_MAX.rar/file',
+    requirementUrl: 'https://www.mediafire.com/file/2i9msrnpdoijpw8/Requirements.rar/file',
+    recommendedEmulatorUrl: 'https://www.mediafire.com/file/4fxgkc0b1cqneg1/MSI-APP-Player.zip/file', 
     cleanEmulatorUrl: 'https://www.ldplayer.net/', 
     description: 'The comprehensive internal solution. If you face Error 153, please check the requirements file and run as admin.',
     youtubeVideoId: 'KgGXx_bcuHM',
     features: [
-      { name: "Aimbot Sight", status: 'SAFE' },
+      { name: "Aimbot Ai", status: 'SAFE' },
       { name: "Aimbot Rage", status: 'UNSAFE' },
       { name: "Aimbot Silent", status: 'UNSAFE' },
       { name: "Aimbot External", status: 'SAFE' },
@@ -36,7 +36,7 @@ export const PRODUCTS: Product[] = [
       { name: "Steady Aim", status: 'SAFE' },
       { name: "Infinite Ammo", status: 'RISK' },
       { name: "Camera Hack", status: 'RISK' },
-      { name: "AimLock", status: 'RISK' },
+      { name: "AimLock", status: 'UNSAFE' },
       { name: "Fast Switch", status: 'RISK' },
       { name: "Ultimate Fire", status: 'UNSAFE' },
       { name: "WallHack 1", status: 'UNSAFE' },
@@ -46,9 +46,9 @@ export const PRODUCTS: Product[] = [
       { name: "Hyper Speed", status: 'UNSAFE' },
       { name: "Front Player", status: 'SAFE' },
       { name: "Side Player", status: 'SAFE' },
-      { name: "Enemy Pull", status: 'RISK' },
+      { name: "Enemy Pull", status: 'SAFE' },
       { name: "Teleport To Spawn", status: 'SAFE' },
-      { name: "Teleport To Car", status: 'SAFE' },
+      { name: "Teleport To Map", status: 'SAFE' },
       { name: "Up Player", status: 'SAFE' },
       { name: "Down Player", status: 'SAFE' },
     ]
@@ -65,9 +65,9 @@ export const ANNOUNCEMENTS: Announcement[] = [
   },
   {
     id: 'ann_update_1',
-    title: '🚀 Update — 14 Nov 2025',
+    title: '🚀 Update — 22 Feb 2026',
     date: '14 Nov 2025',
-    content: '• Added Enemy Pull (Risk Status)\n• Added Fast Switch\n• Added Hyper Speed\n• Added Camera Hack\n• Updated For OB51',
+    content: '• Added Enemy Pull (SAFE Status)\n• Added Fast Switch\n• Added Hyper Speed\n• Added Camera Hack\n• Updated For OB51',
     type: 'success'
   }
 ];
