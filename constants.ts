@@ -14,7 +14,7 @@ export const PRODUCTS: Product[] = [
     id: 'main_panel',
     name: 'AIMXIT INTERNAL MAX',
     category: 'Panel',
-    status: StatusState.SAFE,
+    status: StatusState.UNDETECTED,
     lastUpdated: '1 hour ago',
     version: 'v2.4.0',
     downloadUrl: 'https://www.mediafire.com/file/2t3o0it2w9w370q/AIMXIT_INTERNAL_MAX.rar/file',
