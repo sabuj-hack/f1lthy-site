@@ -1,8 +1,8 @@
 import { Product, StatusState, Announcement } from './types';
 import { ShieldCheck, AlertTriangle, Hammer, XCircle, Activity } from 'lucide-react';
 
-export const APP_NAME = "F1LTHY";
-export const DISCORD_LINK = "https://discord.gg/K6X79nHqRH"; // Your Discord link
+export const APP_NAME = "AIMXIT CHEATS";
+export const DISCORD_LINK = "https://discord.gg/r8ffvkPr"; // Your Discord link
 
 // --- CONFIGURATION ---
 // Edit this value to set a static key for everyone. 
